@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src=".github/logo-podcastr.svg" alt="Podcastr" title="Podcastr" />
+    <img src=".github/logo-podcastr.png" alt="Podcastr" title="Podcastr" />
 </h1>
 
 ## nlw5-podcastrnext
